@@ -144,3 +144,14 @@ form input[type="reset"]:hover {
   text-align: center;
   margin-top: 5px;
 }
+.hero {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.hero img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
